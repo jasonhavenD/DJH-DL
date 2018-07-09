@@ -1,12 +1,12 @@
-### [TensorFlow](../tensorflow/readme.md)
+### [TensorFlow](tensorflow/readme.md)
 
-### [PyTorch](../pytorch/readme.md)
+### [PyTorch](pytorch/readme.md)
 
-### [Keras](../keras/readme.md)
+### [Keras](keras/readme.md)
 
 ------
 
-# 1.[machine learning crash course](https://developers.google.com/machine-learning/crash-course)
+# [machine learning crash course](https://developers.google.com/machine-learning/crash-course)
 
 ---
 
@@ -51,7 +51,7 @@
 
 - **线性回归**是一种找到最适合一组点的直线或超平面的方法
 
-  ![线性回归](image/线性回归.png)
+  ![线性回归](././tensorflow/image/线性回归.png)
 
 - 事实上，虽然该直线并未精确无误地经过每个点，但针对我们拥有的数据，清楚地显示了鸣叫声与温度之间的关系。只需运用一点代数知识，您就可以将这种关系写下来，如下所示：
 
@@ -109,7 +109,7 @@
 
 - 对于我们一直在研究的回归问题，所产生的损失与 w1 的图形始终是凸形。换言之，图形始终是碗状图
 
-![梯度下降](image/梯度下降.png)
+![梯度下降](./tensorflow/image/梯度下降.png)
 
 - 凸形问题只有一个最低点；即只存在一个斜率正好为 0 的位置。这个最小值就是损失函数收敛之处。
 
@@ -121,7 +121,7 @@
 
 - ​
 
-  ![](image/负梯度下降.png)
+  ![](./tensorflow/image/负梯度下降.png)
 
 - 梯度下降法算法用梯度乘以一个称为**学习速率**（有时也称为**步长**）的标量，以确定下一个点的位置。例如，如果梯度大小为 2.5，学习速率为 0.01，则梯度下降法算法会选择距离前一个点 0.025 的位置作为下一个点。
 
@@ -161,7 +161,7 @@
 
 ## Validation
 
-![validation.png](image/validation.png)
+![validation.png](./tensorflow/image/validation.png)
 
 - 在这一经过改进的工作流程中：
 
