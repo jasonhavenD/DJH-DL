@@ -5,6 +5,6 @@
 ### [Keras](keras/readme.md)
 
 ------
-
-#### http://www.deeplearning.net/tutorial/
+### [AI WiKi](https://github.com/jasonhavenD/DJH-DL/blob/master/AI-Wiki.md)
+### [DL Tutorial](http://www.deeplearning.net/tutorial/)
 
