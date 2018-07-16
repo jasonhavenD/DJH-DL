@@ -1,0 +1,5 @@
+Index of primary-tumor
+
+02 Dec 1996      132 Index
+26 Oct 1990    12356 primary-tumor.data
+04 Feb 1990     3703 primary-tumor.names
