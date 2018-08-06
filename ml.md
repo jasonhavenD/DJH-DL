@@ -121,7 +121,20 @@
         - 反向传播，计算误差和梯度（偏导数），可以使用梯度检测
         - 对每层神经元更新参数
     - **应用机器学习的建议**
-      - ​
+      - debgging a machine learning
+        - diagnostic
+      - 评价算法
+        - train 70%,test 30%
+        - trainning error
+        - testing error
+      - 模型选择
+        - train set  60%  min(J_train)
+        - [cross] validation set  20%  J_validation 选择模型
+        - test set 20%  J_test
+      - 诊断偏差和方差
+      - 学习曲线
+        - 用来改进算法、测试算法是否存在偏差、方差问题
+        - ​
 
 
 
