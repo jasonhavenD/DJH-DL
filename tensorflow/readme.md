@@ -18,3 +18,7 @@
 + [GPU](http://blog.csdn.net/sb19931201/article/details/53648615)
 + [CPU](http://blog.csdn.net/u010858605/article/details/64128466)
 
+
+#### Keras
+
+- [keras_in_tf1.9](https://github.com/jasonhavenD/DJH-DL/tree/master/tensorflow/keras_in_tf1.9)
