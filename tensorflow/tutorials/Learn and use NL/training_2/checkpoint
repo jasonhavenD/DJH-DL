@@ -1,0 +1,6 @@
+model_checkpoint_path: "cp-0050.ckpt"
+all_model_checkpoint_paths: "cp-0030.ckpt"
+all_model_checkpoint_paths: "cp-0035.ckpt"
+all_model_checkpoint_paths: "cp-0040.ckpt"
+all_model_checkpoint_paths: "cp-0045.ckpt"
+all_model_checkpoint_paths: "cp-0050.ckpt"
