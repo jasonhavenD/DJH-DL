@@ -5,8 +5,7 @@
 - [Machine Learning By Andrew Wu](https://github.com/jasonhavenD/DJH-DL/blob/master/ml.md)
 - [李宏毅机器学习(2017)](https://github.com/jasonhavenD/DJH-DL/blob/master/%E6%9D%8E%E5%AE%8F%E6%AF%852017ML.md)
 - [常见优化算法](https://github.com/jasonhavenD/DJH-DL/blob/master/optimizer.md)
-
-
+- [Keras](https://github.com/DJH-NLP/DJH-Learn-Keras)
 
 
 
