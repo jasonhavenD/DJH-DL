@@ -7,9 +7,16 @@
 - [Machine Learning By Andrew Wu](https://github.com/jasonhavenD/DJH-DL/blob/master/ml.md)
 - [李宏毅机器学习(2017)](https://github.com/jasonhavenD/DJH-DL/blob/master/%E6%9D%8E%E5%AE%8F%E6%AF%852017ML.md)
 - [常见优化算法](https://github.com/jasonhavenD/DJH-DL/blob/master/optimizer.md)
+- [Keras](https://github.com/DJH-NLP/DJH-Learn-Keras)
+- ​
 
 
 #### 文章
+
+- [如何在NLP领域第一次做成一件事](https://www.msra.cn/zh-cn/news/features/nlp-20161124)
+- [一文读懂机器学习概率图模型](https://cloud.tencent.com/developer/article/1032273)
+- ​
+
 
 - 1.[这是一篇献给新手的深度学习综述](https://www.jiqizhixin.com/articles/Recent-Advances-in-Deep-Learning-An-Overview)
   - NN
@@ -64,4 +71,4 @@
 - 4.[LSTM论文](http://lib.csdn.net/article/deeplearning/45509)
 - 5.[深度学习、机器学习与NLP的前世今生](https://www.jiqizhixin.com/articles/2018-08-10)
 - 6.[NLP领域的ImageNet时代到来：词嵌入「已死」，语言模型当立](https://www.jiqizhixin.com/articles/2018-07-09-9)
-- ​
+- ​7.
