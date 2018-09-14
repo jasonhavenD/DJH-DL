@@ -1,0 +1,674 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="b876a4df-bc84-416f-bbb6-4ac9df9c386b" name="Default" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CoverageDataManager">
+    <SUITE FILE_PATH="coverage/tensorflow$animal.coverage" NAME="animal Coverage Results" MODIFIED="1536501636661" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/人工智能实践/AI-Practice-Tensorflow-Notes-master/python" />
+    <SUITE FILE_PATH="coverage/tensorflow$mnist_lenet5_backward.coverage" NAME="mnist_lenet5_backward Coverage Results" MODIFIED="1536670976132" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/人工智能实践/AI-Practice-Tensorflow-Notes-master/lenet5" />
+    <SUITE FILE_PATH="coverage/tensorflow$tf3_1.coverage" NAME="tf3_1 Coverage Results" MODIFIED="1536501660016" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/人工智能实践/AI-Practice-Tensorflow-Notes-master/python" />
+    <SUITE FILE_PATH="coverage/tensorflow$2.coverage" NAME="预测酸奶日销量问题2 Coverage Results" MODIFIED="1536538492676" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/人工智能实践/class3/神经网络优化" />
+    <SUITE FILE_PATH="coverage/tensorflow$02_feed_dict.coverage" NAME="02_feed_dict Coverage Results" MODIFIED="1536412258982" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/cs20/2017/examples" />
+    <SUITE FILE_PATH="coverage/tensorflow$mnist_backward.coverage" NAME="mnist_backward Coverage Results" MODIFIED="1536653891659" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/人工智能实践/class3/全连接网络基础/fc_1" />
+    <SUITE FILE_PATH="coverage/tensorflow$1_first_NN.coverage" NAME="1.first_NN Coverage Results" MODIFIED="1536397656475" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/cs20/2017/examples/graphs" />
+    <SUITE FILE_PATH="coverage/tensorflow$mnist_forward.coverage" NAME="mnist_forward Coverage Results" MODIFIED="1536653887507" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/人工智能实践/class3/全连接网络基础/fc_1" />
+    <SUITE FILE_PATH="coverage/tensorflow$opt4_5.coverage" NAME="opt4_5 Coverage Results" MODIFIED="1536538921343" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/人工智能实践/AI-Practice-Tensorflow-Notes-master/opt" />
+    <SUITE FILE_PATH="coverage/tensorflow$backward.coverage" NAME="backward Coverage Results" MODIFIED="1536671424448" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/人工智能实践/卷积神经网络" />
+    <SUITE FILE_PATH="coverage/tensorflow$03_logistic_regression_mnist_sol.coverage" NAME="03_logistic_regression_mnist_sol Coverage Results" MODIFIED="1536407280290" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/cs20/2017/examples" />
+    <SUITE FILE_PATH="coverage/tensorflow$opt4_7.coverage" NAME="opt4_7 Coverage Results" MODIFIED="1536591865970" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/人工智能实践/AI-Practice-Tensorflow-Notes-master/opt" />
+    <SUITE FILE_PATH="coverage/tensorflow$.coverage" NAME="搭建神经网络 Coverage Results" MODIFIED="1536505171882" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/人工智能实践/class3" />
+    <SUITE FILE_PATH="coverage/tensorflow$07_basic_filters.coverage" NAME="07_basic_filters Coverage Results" MODIFIED="1536416045296" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/cs20/2017/examples" />
+    <SUITE FILE_PATH="coverage/tensorflow$learning_rate_movingaverage.coverage" NAME="learning_rate_movingaverage Coverage Results" MODIFIED="1536589922739" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/人工智能实践/class3/神经网络优化" />
+    <SUITE FILE_PATH="coverage/tensorflow$mnist_backward__1_.coverage" NAME="mnist_backward (1) Coverage Results" MODIFIED="1536654823411" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/人工智能实践/AI-Practice-Tensorflow-Notes-master/fc1" />
+    <SUITE FILE_PATH="coverage/tensorflow$03_linear_regression_sol.coverage" NAME="03_linear_regression_sol Coverage Results" MODIFIED="1536672375867" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/cs20/2017/examples" />
+    <SUITE FILE_PATH="coverage/tensorflow$py_test_in_mnist_test_py.coverage" NAME="py.test in mnist_test.py Coverage Results" MODIFIED="1536654694528" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/人工智能实践/class3/全连接网络基础/fc_1" />
+    <SUITE FILE_PATH="coverage/tensorflow$04_word2vec_no_frills.coverage" NAME="04_word2vec_no_frills Coverage Results" MODIFIED="1536411728560" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/cs20/2017/examples" />
+    <SUITE FILE_PATH="coverage/tensorflow$regularizer.coverage" NAME="regularizer Coverage Results" MODIFIED="1536592552677" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/人工智能实践/class3/神经网络优化" />
+    <SUITE FILE_PATH="coverage/tensorflow$app.coverage" NAME="app Coverage Results" MODIFIED="1536658295862" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/人工智能实践/全连接网络实践" />
+    <SUITE FILE_PATH="coverage/tensorflow$learning_rate.coverage" NAME="learning_rate Coverage Results" MODIFIED="1536538845523" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/人工智能实践/class3/神经网络优化" />
+    <SUITE FILE_PATH="coverage/tensorflow$py_test_for_mnist_test_test.coverage" NAME="py.test for mnist_test.test Coverage Results" MODIFIED="1536657855151" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/人工智能实践/class3/全连接网络实践" />
+    <SUITE FILE_PATH="coverage/tensorflow$test.coverage" NAME="test Coverage Results" MODIFIED="1536657804332" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/人工智能实践/class3/全连接网络实践" />
+    <SUITE FILE_PATH="coverage/tensorflow$vgg_model.coverage" NAME="vgg_model Coverage Results" MODIFIED="1536416281986" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/cs20/2017/assignments/style_transfer_starter" />
+    <SUITE FILE_PATH="coverage/tensorflow$process_data.coverage" NAME="process_data Coverage Results" MODIFIED="1536411693385" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/cs20/2017/examples" />
+    <SUITE FILE_PATH="coverage/tensorflow$style_transfer.coverage" NAME="style_transfer Coverage Results" MODIFIED="1536416307409" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/cs20/2017/assignments/style_transfer" />
+    <SUITE FILE_PATH="coverage/tensorflow$1.coverage" NAME="预测酸奶日销量问题1 Coverage Results" MODIFIED="1536538454156" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/人工智能实践/class3/神经网络优化" />
+    <SUITE FILE_PATH="coverage/tensorflow$mnist_backward__2_.coverage" NAME="mnist_backward (2) Coverage Results" MODIFIED="1536656377985" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/人工智能实践/class3/全连接网络实践" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>xlrd</find>
+      <find>book</find>
+      <find>self.</find>
+      <find>mnist_lenet5_forward</find>
+      <find>get_weight</find>
+    </findStrings>
+    <replaceStrings>
+      <replace>forward</replace>
+    </replaceStrings>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/cs20/2017/examples/graphs/1.first_NN.py" />
+        <option value="$PROJECT_DIR$/cs20/2017/examples/test.py" />
+        <option value="$PROJECT_DIR$/cs20/2017/examples/03_linear_regression_sol.py" />
+        <option value="$PROJECT_DIR$/cs20/2017/examples/autoencoder/train.py" />
+        <option value="$PROJECT_DIR$/人工智能实践/AI-Practice-Tensorflow-Notes-master/python/animal.py" />
+        <option value="$PROJECT_DIR$/人工智能实践/AI-Practice-Tensorflow-Notes-master/python/tf3_1.py" />
+        <option value="$PROJECT_DIR$/人工智能实践/class3/搭建神经网络.py" />
+        <option value="$PROJECT_DIR$/人工智能实践/class3/神经网络优化/预测酸奶日销量问题1.py" />
+        <option value="$PROJECT_DIR$/人工智能实践/class3/神经网络优化/预测酸奶日销量问题2.py" />
+        <option value="$PROJECT_DIR$/人工智能实践/class3/神经网络优化/learning_rate.py" />
+        <option value="$PROJECT_DIR$/人工智能实践/class3/神经网络优化/learning_rate_decay.py" />
+        <option value="$PROJECT_DIR$/人工智能实践/class3/神经网络优化/learning_rate_movingaverage.py" />
+        <option value="$PROJECT_DIR$/人工智能实践/AI-Practice-Tensorflow-Notes-master/opt/opt4_7.py" />
+        <option value="$PROJECT_DIR$/人工智能实践/class3/神经网络优化/regularizer.py" />
+        <option value="$PROJECT_DIR$/人工智能实践/class3/神经网络优化/learning_rate_module/opt4_8_generateds.py" />
+        <option value="$PROJECT_DIR$/人工智能实践/class3/神经网络优化/learning_rate_module/opt4_8_forward.py" />
+        <option value="$PROJECT_DIR$/人工智能实践/class3/全连接网络基础/fc_1/mnist_backward.py" />
+        <option value="$PROJECT_DIR$/人工智能实践/class3/全连接网络基础/fc_1/mnist_forward.py" />
+        <option value="$PROJECT_DIR$/人工智能实践/class3/全连接网络基础/fc_1/mnist_test.py" />
+        <option value="$PROJECT_DIR$/人工智能实践/AI-Practice-Tensorflow-Notes-master/fc1/mnist_backward.py" />
+        <option value="$PROJECT_DIR$/人工智能实践/class3/全连接网络实践/test.py" />
+        <option value="$PROJECT_DIR$/人工智能实践/class3/全连接网络实践/app.py" />
+        <option value="$PROJECT_DIR$/人工智能实践/全连接网络实践/app.py" />
+        <option value="$PROJECT_DIR$/人工智能实践/全连接网络实践/dataset_maker.py" />
+        <option value="$PROJECT_DIR$/人工智能实践/卷积神经网络/lenet5详解.txt" />
+        <option value="$PROJECT_DIR$/人工智能实践/卷积神经网络/lenet-5.py" />
+        <option value="$PROJECT_DIR$/人工智能实践/卷积神经网络/backward.py" />
+        <option value="$PROJECT_DIR$/人工智能实践/AI-Practice-Tensorflow-Notes-master/lenet5/mnist_lenet5_backward.py" />
+        <option value="$PROJECT_DIR$/人工智能实践/卷积神经网络/forward.py" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="NodePackageJsonFileManager">
+    <packageJsonPaths />
+  </component>
+  <component name="ProjectFrameBounds" extendedState="4">
+    <option name="width" value="960" />
+    <option name="height" value="1037" />
+  </component>
+  <component name="ProjectInspectionProfilesVisibleTreeState">
+    <entry key="Project Default">
+      <profile-state>
+        <expanded-state>
+          <State>
+            <id />
+          </State>
+          <State>
+            <id>Assignment issuesJavaScript</id>
+          </State>
+          <State>
+            <id>Bitwise operation issuesJavaScript</id>
+          </State>
+          <State>
+            <id>CSS</id>
+          </State>
+          <State>
+            <id>Code quality toolsCSS</id>
+          </State>
+          <State>
+            <id>Code quality toolsJavaScript</id>
+          </State>
+          <State>
+            <id>Code style issuesCSS</id>
+          </State>
+          <State>
+            <id>Code style issuesJavaScript</id>
+          </State>
+          <State>
+            <id>CoffeeScript</id>
+          </State>
+          <State>
+            <id>Control flow issuesJavaScript</id>
+          </State>
+          <State>
+            <id>Data flow issuesJavaScript</id>
+          </State>
+          <State>
+            <id>Django</id>
+          </State>
+          <State>
+            <id>ECMAScript 6 migration aidsJavaScript</id>
+          </State>
+          <State>
+            <id>Error handlingJavaScript</id>
+          </State>
+          <State>
+            <id>Flow type checkerJavaScript</id>
+          </State>
+          <State>
+            <id>General</id>
+          </State>
+          <State>
+            <id>GeneralJavaScript</id>
+          </State>
+          <State>
+            <id>JavaScript</id>
+          </State>
+          <State>
+            <id>JavaScript function metricsJavaScript</id>
+          </State>
+          <State>
+            <id>JavaScript validity issuesJavaScript</id>
+          </State>
+          <State>
+            <id>Potentially confusing code constructsJavaScript</id>
+          </State>
+          <State>
+            <id>Probable bugsCoffeeScript</id>
+          </State>
+          <State>
+            <id>Probable bugsJavaScript</id>
+          </State>
+          <State>
+            <id>Python</id>
+          </State>
+          <State>
+            <id>RegExp</id>
+          </State>
+          <State>
+            <id>Spelling</id>
+          </State>
+          <State>
+            <id>TypeScript</id>
+          </State>
+          <State>
+            <id>XML</id>
+          </State>
+        </expanded-state>
+      </profile-state>
+    </entry>
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="tensorflow" type="b2602c69:ProjectViewProjectNode" />
+              <item name="tensorflow" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/Tensorflow_in_action_google_deep_learning_frame" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="settings.editor.selected.configurable" value="preferences.sourceCode.Other File Types" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/人工智能实践/全连接网络基础" />
+      <recent name="$PROJECT_DIR$/人工智能实践" />
+      <recent name="$PROJECT_DIR$/人工智能实践/class3/全连接网络实践/picture" />
+      <recent name="$PROJECT_DIR$/cs20/2017/examples" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/人工智能实践" />
+      <recent name="$PROJECT_DIR$/人工智能实践/class3/全连接网络实践" />
+      <recent name="$PROJECT_DIR$/人工智能实践/class3/神经网络优化/learning_rate_module" />
+      <recent name="$PROJECT_DIR$/人工智能实践/class3/神经网络优化" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Python.03_linear_regression_sol">
+    <configuration name="03_linear_regression_sol" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="tensorflow" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/cs20/2017/examples" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/cs20/2017/examples/03_linear_regression_sol.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+    </configuration>
+    <configuration name="app" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="tensorflow" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/人工智能实践/全连接网络实践" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/人工智能实践/全连接网络实践/app.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+    </configuration>
+    <configuration name="backward" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="tensorflow" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/人工智能实践/卷积神经网络" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/人工智能实践/卷积神经网络/backward.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+    </configuration>
+    <configuration name="mnist_lenet5_backward" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="tensorflow" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/人工智能实践/AI-Practice-Tensorflow-Notes-master/lenet5" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/人工智能实践/AI-Practice-Tensorflow-Notes-master/lenet5/mnist_lenet5_backward.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+    </configuration>
+    <configuration name="py.test for mnist_test.test" type="tests" factoryName="py.test" temporary="true" nameIsGenerated="true">
+      <module name="tensorflow" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/人工智能实践/class3/全连接网络实践" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="_new_keywords" value="&quot;&quot;" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;mnist_test.test&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+    </configuration>
+    <list>
+      <item itemvalue="Python tests.py.test for mnist_test.test" />
+      <item itemvalue="Python.app" />
+      <item itemvalue="Python.backward" />
+      <item itemvalue="Python.mnist_lenet5_backward" />
+      <item itemvalue="Python.03_linear_regression_sol" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.03_linear_regression_sol" />
+        <item itemvalue="Python.backward" />
+        <item itemvalue="Python.mnist_lenet5_backward" />
+        <item itemvalue="Python.app" />
+        <item itemvalue="Python tests.py.test for mnist_test.test" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="b876a4df-bc84-416f-bbb6-4ac9df9c386b" name="Default" comment="" />
+      <created>1536376673094</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1536376673094</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="TestHistory">
+    <history-entry file="py_test_in_mnist_test_py - 2018.09.11 at 16h 31m 39s.xml">
+      <configuration name="py.test in mnist_test.py" configurationId="tests" />
+    </history-entry>
+    <history-entry file="py_test_for_mnist_test_test - 2018.09.11 at 17h 24m 19s.xml">
+      <configuration name="py.test for mnist_test.test" configurationId="tests" />
+    </history-entry>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="0" y="0" width="960" height="1037" extended-state="4" />
+    <layout>
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" />
+      <window_info anchor="bottom" id="Database Changes" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Python Console" order="7" weight="0.2361419" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.19290465" />
+      <window_info anchor="right" id="Mongo Explorer" order="3" weight="0.32967034" />
+      <window_info anchor="bottom" id="Terminal" order="7" weight="0.53325945" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.4573304" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="right" id="Database" order="3" />
+      <window_info anchor="right" id="SciView" order="3" visible="true" weight="0.53501093" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Find" order="1" />
+    </layout>
+    <layout-to-restore>
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.24438202" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.36774194" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="right" id="Mongo Explorer" order="3" weight="0.32967034" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Terminal" order="10" weight="0.53325945" />
+      <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" />
+      <window_info anchor="bottom" id="Database Changes" order="9" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="8" show_stripe_button="false" />
+      <window_info anchor="right" id="SciView" order="5" weight="0.69912475" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="right" id="Database" order="4" />
+      <window_info anchor="bottom" id="Python Console" order="12" weight="0.2361419" />
+    </layout-to-restore>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <option name="time" value="2" />
+    </breakpoint-manager>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/人工智能实践/AI-Practice-Tensorflow-Notes-master/fc1/mnist_test.py" />
+    <entry file="file://$PROJECT_DIR$/人工智能实践/AI-Practice-Tensorflow-Notes-master/fc1/mnist_backward.py" />
+    <entry file="file://$PROJECT_DIR$/人工智能实践/AI-Practice-Tensorflow-Notes-master/fc3/pic/0.png" />
+    <entry file="file://$PROJECT_DIR$/人工智能实践/AI-Practice-Tensorflow-Notes-master/fc2/mnist_backward.py" />
+    <entry file="file://$PROJECT_DIR$/人工智能实践/全连接网络实践/mnist_backward.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="476">
+          <caret line="49" lean-forward="true" selection-start-line="49" selection-end-line="49" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/人工智能实践/AI-Practice-Tensorflow-Notes-master/fc3/mnist_app.py" />
+    <entry file="file://$PROJECT_DIR$/人工智能实践/全连接网络实践/picture/0.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/人工智能实践/全连接网络实践/picture/1.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/人工智能实践/全连接网络实践/picture/2.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/人工智能实践/全连接网络实践/picture/4.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/人工智能实践/全连接网络实践/picture/6.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/人工智能实践/全连接网络实践/picture/9.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/人工智能实践/全连接网络实践/picture/10.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/人工智能实践/全连接网络实践/app.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="457">
+          <caret line="74" column="26" lean-forward="true" selection-start-line="74" selection-start-column="26" selection-end-line="74" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/人工智能实践/AI-Practice-Tensorflow-Notes-master/fc4/mnist_data_jpg/mnist_test_jpg_10000/2_1.jpg" />
+    <entry file="file://$PROJECT_DIR$/人工智能实践/全连接网络实践/dataset_maker.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="272">
+          <caret line="16" selection-start-line="16" selection-end-line="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/人工智能实践/AI-Practice-Tensorflow-Notes-master/fc3/mnist_test.py" />
+    <entry file="file://$PROJECT_DIR$/人工智能实践/卷积神经网络/lenet5详解.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="15" column="32" lean-forward="true" selection-start-line="15" selection-start-column="32" selection-end-line="15" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/人工智能实践/AI-Practice-Tensorflow-Notes-master/lenet5/mnist_lenet5_test.py" />
+    <entry file="file://$PROJECT_DIR$/人工智能实践/AI-Practice-Tensorflow-Notes-master/lenet5/mnist_lenet5_forward.py" />
+    <entry file="file://$PROJECT_DIR$/人工智能实践/全连接网络实践/mnist_test.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="627">
+          <caret line="50" column="25" selection-start-line="50" selection-start-column="25" selection-end-line="50" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/anaconda3/lib/python3.6/site-packages/tensorflow/python/framework/ops.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="1578" selection-start-line="1578" selection-end-line="1578" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/人工智能实践/AI-Practice-Tensorflow-Notes-master/lenet5/mnist_lenet5_backward.py" />
+    <entry file="file://$PROJECT_DIR$/人工智能实践/卷积神经网络/forward.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1139">
+          <caret line="67" selection-start-line="67" selection-end-line="67" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/人工智能实践/卷积神经网络/backward.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="236">
+          <caret line="78" column="11" lean-forward="true" selection-start-line="78" selection-start-column="11" selection-end-line="78" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/人工智能实践/卷积神经网络/lenet-5.py" />
+    <entry file="file://$PROJECT_DIR$/人工智能实践/vgg/vgg16.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1311" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/人工智能实践/vgg/utils.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-328" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/人工智能实践/vgg/Nclasses.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/人工智能实践/vgg/app.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="4" column="10" selection-start-line="4" selection-start-column="10" selection-end-line="4" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/vgg16.py" />
+    <entry file="file://$PROJECT_DIR$/movanzhou/tutorial/tensorflow10_def_add_layer.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="204">
+          <caret line="12" column="6" lean-forward="true" selection-start-line="12" selection-start-column="6" selection-end-line="12" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/movanzhou/tutorial/tensorflow11_build_network.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-36">
+          <caret line="34" column="22" selection-start-line="34" selection-start-column="13" selection-end-line="34" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/movanzhou/tutorial/tf17_dropout.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="151">
+          <caret line="28" column="13" selection-start-line="28" selection-start-column="4" selection-end-line="28" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/movanzhou/tutorial/tf18_CNN2.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-903" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/movanzhou/tutorial/tf18_CNN3.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1226" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/movanzhou/tutorial/tf19_saver.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-510" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/movanzhou/tutorial/tf20_RNN2.2.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-2365" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/movanzhou/tutorial/tf21_autoencoder.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-2841" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/movanzhou/tutorial/tf23_BN.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-2671" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cs20/2017/README.md">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="11" selection-start-line="11" selection-end-line="30" selection-end-column="43" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cs20/2017/examples/1.first_NN.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="151">
+          <caret line="31" column="73" lean-forward="true" selection-start-line="31" selection-start-column="73" selection-end-line="31" selection-end-column="73" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cs20/2017/examples/02_feed_dict.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-53" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cs20/2017/examples/02_lazy_loading.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="542">
+          <caret line="40" column="30" lean-forward="true" selection-start-line="40" selection-start-column="30" selection-end-line="40" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cs20/2017/examples/02_simple_tf.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="355">
+          <caret line="72" column="34" lean-forward="true" selection-start-line="52" selection-start-column="9" selection-end-line="72" selection-end-column="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cs20/2017/examples/03_linear_regression_starter.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cs20/2017/examples/03_linear_regression_sol.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1241">
+          <caret line="73" lean-forward="true" selection-start-line="73" selection-end-line="73" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cs20/2017/examples/04_word2vec_no_frills.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-835" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cs20/2017/examples/07_basic_filters.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1107" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cs20/2017/examples/kernels.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1447" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cs20/2017/examples/07_convnet_mnist_starter.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-2586" />
+      </provider>
+    </entry>
+  </component>
+</project>
